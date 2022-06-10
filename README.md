@@ -11,7 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/mauriciomholiveira/mauriciomholiveira/blob/main/assets/python-original-wordmark.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="hhttps://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png">
 </div>
  
  <br>
