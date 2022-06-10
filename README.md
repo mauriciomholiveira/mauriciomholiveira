@@ -27,6 +27,7 @@
   <a href="https://instagram.com/mauriciomholiveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mauriciomholiveira@icloud.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauriciomholiveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5548988515644&text=Oi%20Mauricio%2C%20eu%20vim%20pelo%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/mauriciomholiveira/mauriciomholiveira/blob/output/github-contribution-grid-snake.svg)
 
