@@ -1,4 +1,8 @@
 ## Bem-vindo(a) ao perfil do Mauricio Oliveira 😁
+<br>
+<br>
+<br>
+<br>
 
  <div>
   <a href="https://github.com/mauriciomholiveira">
@@ -16,7 +20,8 @@
  
  <br>
  
-  ### Entra em contato comigo pelos links abaixo é so clicar :)
+  ## Entra em contato comigo pelos links abaixo é so clicar :)
+  <br>
  
 <div> 
   <a href="https://instagram.com/mauriciomholiveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
