@@ -24,13 +24,15 @@
 <br>
 
 
-<!-- TECNOLOGIAS QUE EU TRABALHO -->
+<!-- TEXTO DAS TECNOLOGIAS -->
+
+<div style="display: inline_block"><br>
 <h1 style="text-align: center;"><span style="color:#000000"><strong>TECNOLOGIAS DO DIA A DIA</strong></span></h1>
 
 <p style="text-align: center;">&nbsp;</p>
 
+<!-- ICONES DAS TECNOLOGIAS -->
 
-<div style="display: inline_block"><br>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
