@@ -1,7 +1,8 @@
 
 <!-- MENSAGEM DE BOAS VINDAS -->
-# Bem-vindo(a) ao perfil do Mauricio Oliveira 😁
-### Eu comecei a programar com WordPress fazendo alguns projetos pessoais e hoje em dia utilizo outras ecnologias para desenvolvimento front end e back end. Sou organizado, flexível, comunicativo e gosto de trabalhar em equipe.
+# Olá! Eu sou o Mauricio Oliveira  👋
+## Apaixonado por tecnologia ❤️
+### Eu comecei a programar com WordPress fazendo alguns projetos pessoais e hoje em dia utilizo outras ecnologias para desenvolvimento front end e back end. Sou organizado, flexível, comunicativo e gosto de trabalhar em equipe. 
 <br>
 
 <!-- LINK DAS REDES SOCIAIS -->
