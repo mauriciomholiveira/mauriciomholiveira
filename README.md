@@ -2,7 +2,7 @@
 
 ## Olá! Eu sou o Mauricio Oliveira 👋 ->My passion is technology ❤️
 
-#### <h2 style="text-align: center;"><code><tt>Eu comecei a programar com WordPress fazendo alguns projetos pessoais e hoje em dia utilizo outras ecnologias para desenvolvimento front end e back end. Sou organizado, flex&iacute;vel, comunicativo e gosto de trabalhar em equipe. Estou em busca da primeira vaga como desenvolvedor.</tt></code></h2>
+#### <h2 style="text-align: center;"><code><tt>Eu comecei a programar com WordPress fazendo alguns projetos pessoais e hoje em dia utilizo outras tecnologias para desenvolvimento front end e back end. Sou organizado, flex&iacute;vel, comunicativo e gosto de trabalhar em equipe. Estou em busca da primeira vaga como desenvolvedor.</tt></code></h2>
 
 <address style="text-align: center;">&nbsp;</address>
 
