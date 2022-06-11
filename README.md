@@ -22,7 +22,7 @@
  <div>
   <a href="https://github.com/mauriciomholiveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciomholiveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomholiveira&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomholiveira&layout=compact&langs_count=10&theme=radical"/>
 </div>
 <br>
 <br>
