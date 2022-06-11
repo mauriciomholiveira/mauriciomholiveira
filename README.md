@@ -1,16 +1,20 @@
-
 <!-- MENSAGEM DE BOAS VINDAS -->
-# Olá! Eu sou o Mauricio Oliveira  👋 ->My passion is technology ❤️
-#### Eu comecei a programar com WordPress fazendo alguns projetos pessoais e hoje em dia utilizo outras ecnologias para desenvolvimento front end e back end. Sou organizado, flexível, comunicativo e gosto de trabalhar em equipe. 
+
+# Olá! Eu sou o Mauricio Oliveira 👋 ->My passion is technology ❤️
+
+#### Eu comecei a programar com WordPress fazendo alguns projetos pessoais e hoje em dia utilizo outras ecnologias para desenvolvimento front end e back end. Sou organizado, flexível, comunicativo e gosto de trabalhar em equipe.
+
 <br>
 
 <!-- LINK DAS REDES SOCIAIS -->
-<div> 
-  <a href="https://instagram.com/codebymauricio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mauriciomholiveira@icloud.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=blue" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mauriciomholiveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5548988515644&text=Oi%20Mauricio%2C%20eu%20vim%20pelo%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codebymauricio)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=blue)](mailto:mauriciomholiveira@icloud.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciomholiveira)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548988515644&text=Oi%20Mauricio%2C%20eu%20vim%20pelo%20GitHub)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mauriciomholiveira)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/307634498483388427)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/mauriciohdeoliveira)
 <br>
 <br>
 
@@ -22,7 +26,6 @@
 </div>
 <br>
 <br>
-
 
 <!-- TEXTO DAS TECNOLOGIAS -->
 
@@ -44,4 +47,3 @@
  <br>
   
   ![Snake animation](https://github.com/mauriciomholiveira/mauriciomholiveira/blob/output/github-contribution-grid-snake.svg)
-
