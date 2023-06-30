@@ -19,7 +19,7 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 
 ## Cursos e Self-learning 📚
 
-- Curso em From IT To Cyber, CECyber – 01/2023 em andamento
+- Curso em From IT To Cyber, CECyber – 01/2023 - 06/2023
 - Coach e Liderança, Universidade Norte do Pará – 09/2021 – 10/2021
 - Linguagem de Programação Python - Básico, Fundação Bradesco – 03/2022 – 04/2022
 - Análise de dados com Python, Universidade Norte do Pará – 04/2022 – 05/2022
