@@ -1,8 +1,41 @@
 <!-- MENSAGEM DE BOAS VINDAS -->
 
-## Olá! Eu sou o Mauricio Oliveira 👋 ->My passion is technology ❤️
+## Sobre Mim 🚀
 
-#### <h2 style="text-align: center;"><code><tt>Eu sou apaixonado por tecnologia, adoro passar horas na frente do PC aprendendo algo novo, vendo anime, escutando um bom rock e/ou um rap de anime, aqui no meu Github voce vai encontrar repositorios e desafios alem de aprendizados sobre varias tecnologias, atualmente estou me focando na area de Cybersecurity, mais sempre procuro estar aprendendo outras tecnologias de desenvolvimento de backend, frontend, mobile.Sou entusiasta do Metaverso, Realidade aumentada, Realidade Virtual e Realidade Mista </tt></code></h2>
+Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Tenho experiência em operação de servidores Windows e Linux, configuração de serviços de rede, análise de logs, bancos de dados e hardening de sistemas operacionais e bancos de dados. Além disso, possuo conhecimentos em redes de computadores, cloud computing e ferramentas de segurança. 🔒
+
+🎓 Terminarei minha graduação no final de 2024 em Engenharia de Software pela UNOPAR, estou constantemente buscando oportunidades de aprendizado e aprimoramento. Realizei cursos e self-learning em áreas como cibersegurança, programação Python e análise de dados. Sou entusiasta tanto na área de desenvolvimento como em cibersegurança, mais especificamente no Blue Team. 💻
+
+🔎 Estou em busca de oportunidades para contribuir em projetos relacionados a desenvolvimento e também na área de cibersegurança. Adoro trabalhar em equipe, colaborar em projetos desafiadores e trocar conhecimentos. Se você está interessado em colaborar ou trocar experiências nessas áreas, sinta-se à vontade para entrar em contato! 🤝
+
+## Experiência Profissional 💼
+
+- Estágio Analista de Suporte Técnico em Telecomunicações, Intelbras (08/2022 – até o momento)
+- Aux. Expedição e Suporte & Manutenção de computadores, ND EXPRESS (09/2018 – 04/2022)
+
+## Formação Acadêmica e Certificações 🎓
+
+- Bacharel em Engenharia de Software, UNOPAR (2021 – 2024) 
+
+## Cursos e Self-learning 📚
+
+- Curso em From IT To Cyber, CECyber – 01/2023 em andamento
+- Coach e Liderança, Universidade Norte do Pará – 09/2021 – 10/2021
+- Linguagem de Programação Python - Básico, Fundação Bradesco – 03/2022 – 04/2022
+- Análise de dados com Python, Universidade Norte do Pará – 04/2022 – 05/2022
+- Trilha Conectar, Rocketseat – 05/2022 - 06/2022
+- IOT e Programação de Sensores, Universidade Norte do Pará – 08/2022 – 08/2022
+
+## Idiomas 🌐
+
+- Inglês – Básico
+
+## Atividades Extracurriculares 🌟
+
+- Atividade física em casa 🏋️‍♀️
+- Compartilho conteúdos sobre tecnologia no Instagram [@ellucyber](https://www.instagram.com/ellucyber)
+- Crio podcasts e vídeos sobre notícias de cibersegurança no canal Ellucyber 🎙️
+
 
 <address style="text-align: center;">&nbsp;</address>
 
