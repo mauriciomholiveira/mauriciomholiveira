@@ -2,7 +2,7 @@
 
 ## Sobre Mim 🚀
 
-Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Tenho experiência em operação de servidores Windows e Linux, configuração de serviços de rede, análise de logs, bancos de dados e hardening de sistemas operacionais e bancos de dados. Além disso, possuo conhecimentos em redes de computadores, cloud computing e ferramentas de segurança. 🔒
+Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Tenho conhecimento em operação de servidores Windows e Linux, configuração de serviços de rede, análise de logs, bancos de dados e hardening de sistemas operacionais e bancos de dados. Além disso, possuo conhecimentos em redes de computadores, cloud computing e ferramentas de segurança. 🔒
 
 🎓 Terminarei minha graduação no final de 2024 em Engenharia de Software pela UNOPAR, estou constantemente buscando oportunidades de aprendizado e aprimoramento. Realizei cursos e self-learning em áreas como cibersegurança, programação Python e análise de dados. Sou entusiasta tanto na área de desenvolvimento como em cibersegurança, mais especificamente no Blue Team. 💻
 
