@@ -6,7 +6,7 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 
 🎓 Terminarei minha graduação no final de 2024 em Engenharia de Software pela UNOPAR, estou constantemente buscando oportunidades de aprendizado e aprimoramento. Realizei cursos e self-learning em áreas como cibersegurança, programação Python e análise de dados. Sou entusiasta tanto na área de desenvolvimento como em cibersegurança, mais especificamente no Blue Team. 💻
 
-🔎 Estou em busca de oportunidades para contribuir em projetos relacionados a desenvolvimento e também na área de cibersegurança. Adoro trabalhar em equipe, colaborar em projetos desafiadores e trocar conhecimentos. Se você está interessado em colaborar ou trocar experiências nessas áreas, sinta-se à vontade para entrar em contato! 🤝
+🔎 Estou em busca de oportunidades para contribuir em projetos relacionados a programação. Adoro trabalhar em equipe, colaborar em projetos desafiadores e trocar conhecimentos, resolvo qualquer tipo de problema e sou focado em trazer resultados. Se você está interessado em colaborar ou trocar experiências nessas áreas, sinta-se à vontade para entrar em contato! 🤝
 
 ## Experiência Profissional 💼
 
@@ -15,16 +15,22 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 
 ## Formação Acadêmica e Certificações 🎓
 
-- Bacharel em Engenharia de Software, UNOPAR (2021 – 2024) 
+- Bacharel em Engenharia de Software, UNOPAR (2021 – 2024)
+- Certificação Oracle Cloud Infrastructure Foundations, ORACLE (2023) 
 
 ## Cursos e Self-learning 📚
 
+
+- Certificado AZ-900, Ka Solution – 08/2023 - 08/2023
+- Certificado MS-900, Ka Solution – 07/2023 - 07/2023
+- Certificado SC-900, Ka Solution – 07/2023 - 07/2023
 - Curso em From IT To Cyber, CECyber – 01/2023 - 06/2023
 - Coach e Liderança, Universidade Norte do Pará – 09/2021 – 10/2021
 - Linguagem de Programação Python - Básico, Fundação Bradesco – 03/2022 – 04/2022
 - Análise de dados com Python, Universidade Norte do Pará – 04/2022 – 05/2022
 - Trilha Conectar, Rocketseat – 05/2022 - 06/2022
 - IOT e Programação de Sensores, Universidade Norte do Pará – 08/2022 – 08/2022
+
 
 ## Idiomas 🌐
 
