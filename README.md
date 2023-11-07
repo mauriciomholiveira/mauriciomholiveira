@@ -62,21 +62,6 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 
 <br>
 
-<!-- DISPLAY STATS E LINGUAGENS MAIS USADAS -->
- <div>
-  <a href="https://github.com/mauriciomholiveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomholiveira&layout=compact&langs_count=10&theme=radical"/>
-</div>
-<br>
-<br>
-
-<!-- TEXTO DAS TECNOLOGIAS -->
-
-<div style="display: inline_block"><br>
-<h1 style="text-align: center;"><span style="color:#000000"><strong>TECNOLOGIAS DO DIA A DIA</strong></span></h1>
-
-<p style="text-align: center;">&nbsp;</p>
-
 <!-- ICONES DAS TECNOLOGIAS -->
 
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -89,7 +74,8 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
  
   
   <!-- TECNOLOGIAS AINDA NAO USADAS -->
- <!--  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+ <!--  
+  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
@@ -97,7 +83,25 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="SQLDB" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> -->
+  <img align="center" alt="SQLDB" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+  -->
+
+<br>
+
+<!-- DISPLAY STATS E LINGUAGENS MAIS USADAS -->
+  <div>
+   <a href="https://github.com/mauriciomholiveira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomholiveira&layout=compact&langs_count=10&theme=radical"/>
+  </div>
+<br>
+<br>
+
+<!-- TEXTO DAS TECNOLOGIAS -->
+
+<div style="display: inline_block"><br>
+<h1 style="text-align: center;"><span style="color:#000000"><strong>TECNOLOGIAS DO DIA A DIA</strong></span></h1>
+
+<p style="text-align: center;">&nbsp;</p>
 
 
 
