@@ -53,26 +53,23 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 - Compartilho conteúdos sobre tecnologia no Instagram [@ellucyber](https://www.instagram.com/ellucyber)
 - Crio podcasts e vídeos sobre notícias de cibersegurança no canal Ellucyber 🎙️
 
-
 <address style="text-align: center;">&nbsp;</address>
 
+<!-- TEXTO DAS TECNOLOGIAS -->
 
-<br>
+<div style="display: inline_block"><br>
+<h1 style="text-align: center;"><span style="color:#000000"><strong>TECNOLOGIAS DO DIA A DIA</strong></span></h1>
 
-
-<br>
+<p style="text-align: center;">&nbsp;</p>
 
 <!-- ICONES DAS TECNOLOGIAS -->
-
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  
- 
-  
+ <br>
   <!-- TECNOLOGIAS AINDA NAO USADAS -->
  <!--  
   <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
@@ -86,9 +83,9 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
   <img align="center" alt="SQLDB" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
   -->
 
-<br>
 
 <!-- DISPLAY STATS E LINGUAGENS MAIS USADAS -->
+<br> 
   <div>
    <a href="https://github.com/mauriciomholiveira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomholiveira&layout=compact&langs_count=10&theme=radical"/>
@@ -96,12 +93,6 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 <br>
 <br>
 
-<!-- TEXTO DAS TECNOLOGIAS -->
-
-<div style="display: inline_block"><br>
-<h1 style="text-align: center;"><span style="color:#000000"><strong>TECNOLOGIAS DO DIA A DIA</strong></span></h1>
-
-<p style="text-align: center;">&nbsp;</p>
 
 
 
