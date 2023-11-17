@@ -21,8 +21,11 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 
 ## Experiência Profissional 💼
 
-- Estágio Analista de Suporte Técnico em Telecomunicações, Intelbras (08/2022 – até o momento)
+- Analista de Suporte Técnico em Telecomunicações, Intelbras (08/2022 – até o momento)
+  <br> O que faço: Faço configuração de PABX bem como configuraões IP nas centrais e terminais IP, analiso o cenario do cliente levando soluções de forma rapida
 - Aux. Expedição e Suporte & Manutenção de computadores, ND EXPRESS (09/2018 – 04/2022)
+  <br> O que fazia: Suporte Help Desk incluindo criação de usuario, manutenção em PC, impressora, repor suprimentos, fui responsavel pela expedição a noite na empresa, liberamento de carga e romaneio, trouxe soluções com automação de processos internos gerando grande economia de tempo.
+
 
 ## Formação Acadêmica e Certificações 🎓
 
@@ -30,7 +33,6 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 - Certificação Oracle Cloud Infrastructure Foundations, ORACLE (2023) 
 
 ## Cursos e Self-learning 📚
-
 
 - Certificado Formação HTML, DIO – 10/2023 - 11/2023
 - Certificado AZ-900, Ka Solution – 08/2023 - 08/2023
@@ -52,7 +54,7 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 
 - Atividade física em casa 🏋️‍♀️
 - Compartilho conteúdos sobre tecnologia no Instagram [@ellucyber](https://www.instagram.com/ellucyber)
-- Crio podcasts e vídeos sobre notícias de cibersegurança no canal Ellucyber 🎙️
+- Crio podcasts e vídeos sobre tecnologia no Spotify Ellucyber 🎙️
 
 <address style="text-align: center;">&nbsp;</address>
 
