@@ -32,6 +32,7 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 ## Cursos e Self-learning 📚
 
 
+- Certificado Formação HTML, DIO – 10/2023 - 11/2023
 - Certificado AZ-900, Ka Solution – 08/2023 - 08/2023
 - Certificado MS-900, Ka Solution – 07/2023 - 07/2023
 - Certificado SC-900, Ka Solution – 07/2023 - 07/2023
