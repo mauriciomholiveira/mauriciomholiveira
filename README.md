@@ -42,9 +42,6 @@ Olá! Sou apaixonado por tecnologia e estou sempre em busca de novos conheciment
 - Coach e Liderança, Universidade Norte do Pará – 09/2021 – 10/2021
 - Linguagem de Programação Python - Básico, Fundação Bradesco – 03/2022 – 04/2022
 - Análise de dados com Python, Universidade Norte do Pará – 04/2022 – 05/2022
-- Trilha Conectar, Rocketseat – 05/2022 - 06/2022
-- IOT e Programação de Sensores, Universidade Norte do Pará – 08/2022 – 08/2022
-
 
 ## Idiomas 🌐
 
