@@ -1,0 +1,1 @@
+{"name":"GitHub Issue to Trello","nodes":[{"parameters":{},"type":"n8n-nodes-base.manualTrigger","name":"Start"},{"parameters":{},"type":"n8n-nodes-base.trello","name":"Create Card"}],"connections":{"Start":{"main":[[{"node":"Create Card","type":"main","index":0}]]}}}

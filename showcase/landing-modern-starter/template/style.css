@@ -1,0 +1,14 @@
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial;background:#0d1117;color:#e5e7eb}
+.hero{min-height:65vh;display:grid;place-items:center;background:radial-gradient(1200px 600px at 50% 0%, rgba(99,102,241,.25), transparent),linear-gradient(180deg,#0d1117 0%,#0f172a 100%)}
+.glass{backdrop-filter:saturate(1.2) blur(6px);background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.08);border-radius:18px;padding:32px;box-shadow:0 10px 40px rgba(139,92,246,.15);max-width:820px;text-align:center}
+.glass h1{font-size:42px;margin:0 0 8px}
+.glass p{font-size:18px;margin:0 0 16px;color:#cbd5e1}
+.cta{display:flex;gap:12px;justify-content:center}
+.btn{padding:12px 18px;border:1px solid #334155;border-radius:12px;color:#e2e8f0;text-decoration:none;transition:.2s ease;box-shadow:0 4px 16px rgba(0,0,0,.15)}
+.btn:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(99,102,241,.25)}
+.btn.primary{background:linear-gradient(90deg,#6366F1,#8B5CF6);border-color:transparent}
+.features{max-width:900px;margin:48px auto;padding:0 16px}
+.features h2{font-size:28px;margin:0 0 12px}
+.features ul{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;padding:0;list-style:none}
+.features li{background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:16px}
+.footer{padding:24px;text-align:center;color:#94a3b8}

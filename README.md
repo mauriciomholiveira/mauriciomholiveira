@@ -14,6 +14,10 @@
 
 <br><br>
 
+<!-- ===================== SEO HEADING ===================== -->
+
+<h1> Mauricio Oliveira — Designer, Social Media, Desenvolvedor Full‑Stack e Automação | Landing Pages, Sistemas, n8n </h1>
+
 <!-- ===================== SUBTITLE WITH GRADIENT ===================== -->
 
 <h2>
@@ -30,6 +34,9 @@
   </a>
   <a href="#portfolio">
     <img src="https://img.shields.io/badge/🎨_Ver_Portfólio-8B5CF6?style=for-the-badge&logoColor=white&labelColor=4C1D95"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5548988080213&text=Ol%C3%A1%2C%20Mauricio!%20Quero%20contratar%20seus%20servi%C3%A7os%20(via%20GitHub)">
+    <img src="https://img.shields.io/badge/💬_Contratar_Agora-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -55,6 +62,23 @@
 
 <br>
 
+<!-- ===================== SERVIÇOS (PRIORIDADE) ===================== -->
+
+<div align="center">
+
+## 🧩 Serviços — Design, Full‑Stack & Automação
+
+<sub>Landing Pages modernas, Desenvolvimento de Sistemas, Automações com APIs/n8n, Social Media & Design.</sub>
+
+<p>
+<a href="#projetos-destaque"><img src="https://img.shields.io/badge/Ver_Projetos-8B5CF6?style=for-the-badge"/></a>
+<a href="https://api.whatsapp.com/send?phone=5548988080213&text=Quero%20contratar%20seus%20servi%C3%A7os%20(via%20GitHub)"><img src="https://img.shields.io/badge/Contratar_Agora-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+</div>
+
+<br>
+
 <!-- ===================== ANIMATED AVATAR/ILLUSTRATION ===================== -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px" alt="Developer Animation"/>
@@ -72,7 +96,7 @@
   <a href="https://www.linkedin.com/in/mauriciomholiveira">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@ellucyber">
+  <a href="https://www.youtube.com/@mauriciomholiveira">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:mauriciomholiveira@icloud.com">
@@ -130,47 +154,7 @@
 
 <br><br>
 
-<!-- ===================== TROPHY SHOWCASE ===================== -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=mauriciomholiveira&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" width="100%"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- ===================== DYNAMIC INTERACTIONS ===================== -->
-
-<div align="center">
-
-## ✨ Elementos Interativos
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-<br><br>
-
-<!-- Floating Tech Icons Animation -->
-<p>
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-</p>
-
-<br>
-
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-<!-- Animated Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<!-- Trophy removido para evitar excesso visual -->
 
 </div>
 
@@ -210,19 +194,7 @@
 
 <br>
 
-<!-- Fun Facts Card -->
-<details>
-<summary><b>⚡ Fun Facts sobre mim</b></summary>
-<br>
-<p align="left">
-🎯 <b>Perfeccionista Digital</b> — Cada pixel importa!<br>
-🌙 <b>Night Coder</b> — As melhores ideias vêm à noite<br>
-☕ <b>Coffee Lover</b> — Café é o combustível do código<br>
-🎮 <b>Gamer Casual</b> — Relaxo jogando entre projetos<br>
-📚 <b>Lifelong Learner</b> — Sempre estudando algo novo<br>
-🎵 <b>Music While Coding</b> — Lofi hip hop é o soundtrack<br>
-</p>
-</details>
+<!-- Fun Facts removidos para foco em conversão e clareza -->
 
 <br>
 
@@ -232,7 +204,7 @@
 <br>
 <p>
 📱 <a href="https://www.instagram.com/mauriciomholiveira/">Instagram Principal</a><br>
-🎥 <a href="https://www.youtube.com/@ellucyber">Canal no YouTube</a><br>
+🎥 <a href="https://www.youtube.com/@mauriciomholiveira">Canal no YouTube</a><br>
 💼 <a href="https://www.linkedin.com/in/mauriciomholiveira/">LinkedIn Profissional</a><br>
 💬 <a href="https://api.whatsapp.com/send?phone=5548988080213">WhatsApp</a><br>
 ✉️ <a href="mailto:mauriciomholiveira@icloud.com">Email</a><br>
@@ -254,6 +226,103 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+
+<!-- ===================== SERVIÇOS (CONVERSÃO) ===================== -->
+
+<div align="center" id="servicos">
+
+## 🧩 Serviços — Design, Full‑Stack & Automação
+
+<sub>Palavras‑chave: Landing Pages modernas, Desenvolvimento de Sistemas, Automação com APIs, Social Media & Design, React, Node.js, PostgreSQL, Vue.js, Tailwind.</sub>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Landing Pages & Sites
+
+- Design premium, copy focada em conversão
+- Performance 100/100 e SEO técnico
+- Integração com formulários, CRM e analytics
+
+<p>
+<a href="#portfolio"><img src="https://img.shields.io/badge/Ver_Portfólio-8B5CF6?style=for-the-badge"/></a>
+<a href="https://api.whatsapp.com/send?phone=5548988080213&text=Quero%20um%20or%C3%A7amento%20de%20Landing%20Page%20(via%20GitHub)"><img src="https://img.shields.io/badge/Solicitar_Or%C3%A7amento-6366F1?style=for-the-badge"/></a>
+<p>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Sistemas & APIs
+
+- Painéis administrativos e CRUD completos
+- Gateways de pagamento (PIX/Cartão)
+- Autenticação, RBAC, notificações
+
+<p>
+<a href="#projetos-destaque"><img src="https://img.shields.io/badge/Ver_Projetos-A78BFA?style=for-the-badge"/></a>
+<a href="https://api.whatsapp.com/send?phone=5548988080213&text=Quero%20um%20sistema%20sob%20medida%20(via%20GitHub)"><img src="https://img.shields.io/badge/Falar_no_WhatsApp-22C55E?style=for-the-badge"/></a>
+<p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Social Media & Design
+
+- Identidade visual, posts e motion básico
+- Kits para lançamentos e campanhas
+- Templates no Figma e brand guidelines
+
+<p>
+<a href="https://www.instagram.com/mauriciomholiveira/"><img src="https://img.shields.io/badge/Ver_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:mauriciomholiveira@icloud.com?subject=Briefing%20de%20Design&body=Ol%C3%A1%2C%20Mauricio!%20Gostaria%20de%20um%20or%C3%A7amento%20para%20Design%20(Social%20Media).%20Vim%20pelo%20GitHub."><img src="https://img.shields.io/badge/Enviar_Briefing-0EA5E9?style=for-the-badge"/></a>
+<p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Automações & Integrações
+
+- Integrações com n8n, webhooks e APIs
+- Bots, ETL leve e notificações
+- Redução de tarefas repetitivas
+
+<p>
+<a href="#projetos-destaque"><img src="https://img.shields.io/badge/Casos_de_Uso-9333EA?style=for-the-badge"/></a>
+<a href="https://api.whatsapp.com/send?phone=5548988080213&text=Preciso%20automatizar%20um%20processo%20(via%20GitHub)"><img src="https://img.shields.io/badge/Discutir_Solu%C3%A7%C3%A3o-10B981?style=for-the-badge"/></a>
+<p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💡 Diferenciais
+- Foco em conversão e métricas de negócio
+- Código limpo, documentação e handoff organizado
+- Transparência no escopo e prazos
+
+<br>
+
+### 🧭 Como funciona
+1) Brief via WhatsApp/Email → 2) Proposta → 3) Kickoff → 4) Entrega com revisão
+
+<br>
+
+<p>
+<a href="https://api.whatsapp.com/send?phone=5548988080213&text=Ol%C3%A1%2C%20Mauricio!%20Quero%20contratar%20seus%20servi%C3%A7os%20(via%20GitHub)"><img src="https://img.shields.io/badge/Contratar_Agora-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:mauriciomholiveira@icloud.com?subject=Projeto%20novo%20(via%20GitHub)&body=Oi%2C%20Mauricio!%20Tenho%20um%20projeto%20para%20avaliar."><img src="https://img.shields.io/badge/Falar_por_Email-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -370,6 +439,26 @@ Combinando experiência em **infraestrutura**, **desenvolvimento** e **design vi
 
 </div>
 
+<!-- ===================== SOFT SKILLS ===================== -->
+
+<div align="center">
+
+## 🤝 Soft Skills
+
+<p>
+<img src="https://img.shields.io/badge/Comunicação-Clara-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Resolução_de_Problemas-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Proatividade-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gestão_do_Tempo-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Foco_no_Cliente-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Trabalho_em_Equipe-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Adaptabilidade-C084FC?style=flat-square"/>
+</p>
+
+<sub>Experiência com atendimento, suporte técnico, análise de cenários, implementação rápida de soluções e colaboração multidisciplinar.</sub>
+
+</div>
+
 <br>
 
 ---
@@ -455,9 +544,14 @@ Combinando experiência em **infraestrutura**, **desenvolvimento** e **design vi
 
 ## 🚀 Projetos em Destaque
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<p>
+<a href="showcase/landing-modern-starter"><img src="https://img.shields.io/badge/Landing_Modern_Starter-1f2937?style=for-the-badge&logo=vercel"/></a>
+<a href="showcase/billing-pix-ai"><img src="https://img.shields.io/badge/Billing_PIX_%2B_IA-0f766e?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="showcase/escalas-inteligentes-saas"><img src="https://img.shields.io/badge/Escalas_Inteligentes_SaaS-334155?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="showcase/automacoes-n8n-templates"><img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es_n8n_Templates-9333EA?style=for-the-badge&logo=n8n&logoColor=white"/></a>
+</p>
 
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -570,15 +664,8 @@ Sistemas administrativos com visualização de dados em tempo real, gráficos in
 
 <br>
 
-<!-- ===================== GITHUB STATS ULTRA MODERN ===================== -->
-
-<div align="center">
-
-## 📈 GitHub Stats & Analytics
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br><br> 
+<!-- ===================== GITHUB STATS ULTRA MODERN (REMOVIDO PARA EVITAR REDUNDÂNCIA) ===================== -->
+<!-- Mantido apenas um bloco de estatísticas acima para evitar duplicação e melhorar escaneabilidade. -->
 
 
 
@@ -630,27 +717,27 @@ Sistemas administrativos com visualização de dados em tempo real, gráficos in
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 <h3>📱 Instagram</h3>
-<b>@ellucyber</b><br>
+<b>@mauriciomholiveira</b><br>
 <sub>Dicas rápidas e conteúdo visual<br>sobre tecnologia e programação</sub>
 <br><br>
-<a href="https://www.instagram.com/ellucyber">
+<a href="https://www.instagram.com/mauriciomholiveira/">
 <img src="https://img.shields.io/badge/Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294003-cf1014ad-f658-4987-b7be-de5906b9e46f.gif" width="100">
 <h3>🎥 YouTube</h3>
-<b>Ellucyber</b><br>
+<b>Mauricio Oliveira</b><br>
 <sub>Tutoriais, podcasts e<br>reviews sobre tecnologia</sub>
 <br><br>
-<a href="https://www.youtube.com/@ellucyber">
+<a href="https://www.youtube.com/@mauriciomholiveira">
 <img src="https://img.shields.io/badge/Inscrever-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
 <h3>🎙️ Podcast</h3>
-<b>Ellucyber</b><br>
+<b>Mauricio Oliveira</b><br>
 <sub>Conversas sobre carreira,<br>tech e inovação</sub>
 <br><br>
 <a href="#">
@@ -754,7 +841,7 @@ Sistemas administrativos com visualização de dados em tempo real, gráficos in
   <a href="https://www.instagram.com/mauriciomholiveira/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@ellucyber">
+  <a href="https://www.youtube.com/@mauriciomholiveira">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="YouTube"/>
   </a>
   <a href="https://www.linkedin.com/in/mauriciomholiveira/">

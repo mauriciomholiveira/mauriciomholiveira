@@ -1,0 +1,14 @@
+{
+  "teams": [
+    { "id": "t1", "name": "Atendimento" },
+    { "id": "t2", "name": "Operações" }
+  ],
+  "shifts": [
+    { "id": "s1", "teamId": "t1", "user": "Ana", "day": "2025-11-17", "range": "08:00-14:00" },
+    { "id": "s2", "teamId": "t1", "user": "Bruno", "day": "2025-11-17", "range": "14:00-20:00" }
+  ],
+  "rules": {
+    "maxHoursPerDay": 8,
+    "preventOverlap": true
+  }
+}

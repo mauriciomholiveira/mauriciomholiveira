@@ -1,0 +1,8 @@
+{
+  "name": "Lead to Sheet",
+  "nodes": [
+    {"parameters": {}, "type": "n8n-nodes-base.manualTrigger", "name": "Start"},
+    {"parameters": {"operation": "append"}, "type": "n8n-nodes-base.googleSheets", "name": "Append Row"}
+  ],
+  "connections": {"Start": {"main": [[{"node": "Append Row", "type": "main", "index": 0}]]}}
+}

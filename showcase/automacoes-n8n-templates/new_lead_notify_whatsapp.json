@@ -1,0 +1,1 @@
+{"name":"Lead Notify WhatsApp","nodes":[{"parameters":{},"type":"n8n-nodes-base.manualTrigger","name":"Start"},{"parameters":{"fromEmail":"","toEmail":""},"type":"n8n-nodes-base.emailSend","name":"Email"}],"connections":{"Start":{"main":[[{"node":"Email","type":"main","index":0}]]}}}
