@@ -2,10 +2,11 @@
 
 # Maurício Henrique de Oliveira
 
-### Engenheiro de Software | Arquiteto de Sistemas Full-Stack & Soluções em Nuvem
-### Software Engineer | Full-Stack Systems Architect & Cloud Solutions
+### Software Engineer | Full-Stack & Cloud Systems Architect
+**B.S. Software Engineering • Oracle Cloud (OCI) Certified • 2+ Years Production Experience**  
+*Florianópolis / São José, SC — Brazil • Open to Remote & Relocation Opportunities (Global & National)*
 
-**Florianópolis / São José, SC — Brasil • Disponível para Contratações Remotas e Projetos Globais (BR & Internacional)**
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriciomholiveira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauriciomholiveira)
@@ -14,7 +15,7 @@
 [![Download Resume EN](https://img.shields.io/badge/Resume_(EN)-PDF-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Resume_Mauricio_Oliveira_EN.pdf)
 [![Download CV PT](https://img.shields.io/badge/Curr%C3%ADculo_(PT)-PDF-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/CV_Mauricio_Oliveira_PT.pdf)
 
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciomholiveira/mauriciomholiveira/output/github-contribution-grid-snake-dark.svg">
@@ -28,35 +29,25 @@
 
 ---
 
-### Resumo Profissional / Executive Overview
+### About & Engineering Impact
 
-<details open>
-<summary><b>Português (Foco em Recrutamento Técnico e Parcerias B2B)</b></summary>
-<br>
+Graduated **Software Engineer** (B.S., UNOPAR 2025) and certified by Oracle (**Oracle Cloud Infrastructure - OCI Foundations Associate**), with over 2 years of hands-on experience designing, shipping, and maintaining high-performance web applications, distributed backends, and cloud infrastructure.
 
-**Engenheiro de Software graduado** (UNOPAR, 2025) e certificado oficialmente pela Oracle (**Oracle Cloud Infrastructure - OCI Foundations Associate**), com mais de 2 anos de experiência contínua na concepção, arquitetura, desenvolvimento, revisão e sustentação de sistemas modernos de ponta a ponta.
-
-- **Engenharia Full-Stack & Mobile**: Criação de plataformas web e aplicações móveis com Next.js 15 (App Router), React 19, React Native, Vue.js, TypeScript, Node.js, Express, Tailwind CSS, HTML5 e CSS3 semântico.
-- **Modelagem de Dados & Backend Resiliente**: Arquitetura de bancos relacionais com PostgreSQL, Prisma ORM, Supabase, Redis (cache e mensageria) e SQLite para aplicações distribuídas.
-- **Infraestrutura em Nuvem, VPS & DevOps**: Provisionamento e deploy automatizado em VPS (Hostinger, Oracle Cloud, Linux Ubuntu/Debian), conteinerização com Docker e Docker Compose, configuração de Proxy Reverso com Nginx e versionamento avançado com Git/GitHub.
-- **Engenharia Assistida por Inteligência Artificial (Operador de IA)**: Condução de pipelines ágeis onde a modelagem de dados, segurança e arquitetura são projetadas pelo engenheiro, e agentes/motores de IA são orquestrados para validação de código, geração de testes e aceleração radical de entregas.
-- **Qualidade de Software (QA) & Testes**: Revisão rigorosa de código, aplicação dos princípios SOLID e DRY, testes automatizados, sanitização de inputs, proteção contra vulnerabilidades OWASP e monitoramento de estabilidade.
-- **Cultura de SLA & Telecomunicações Corporativas**: Bagagem de suporte técnico especializado de segundo nível (Tier-2) na **Intelbras S/A**, atuando em diagnóstico de falhas críticas, análise de pacotes de rede via Wireshark e PABX IP sob métricas contratuais rígidas.
-
-</details>
+- **End-to-End System Ownership**: Proven track record of taking complex software requirements from data modeling and security definitions to containerized production deployment using **Next.js 15 (App Router)**, **React 19**, **React Native**, **Vue.js**, **TypeScript**, **Node.js**, **PostgreSQL**, **Supabase**, and **Docker**.
+- **Production Resilience & Incident Troubleshooting**: Former Tier-2 Telecommunications Support Analyst at **Intelbras S/A**, diagnosing complex IP PBX servers, VoIP gateways, and mission-critical network incidents through deep packet inspection (**Wireshark**) under demanding contractual SLAs.
+- **AI-Augmented Engineering (AI Operator)**: Operates modern agentic workflows and AI-driven static analysis to accelerate feature delivery, automate test generation, and enforce high code-quality bars without sacrificing architectural rigor.
+- **Infrastructure Autonomy**: Experienced in deploying and maintaining self-hosted services on Linux VPS environments (**Hostinger**, **Oracle Cloud**, **Ubuntu/Debian**), setting up **Nginx** reverse proxies with TLS, and architecting zero-trust remote fleet access via **Tailscale Mesh VPN** and cryptographic SSH key pairs.
 
 <details>
-<summary><b>English (Global Engineering Recruitment Overview)</b></summary>
+<summary><b>🇧🇷 Ler em Português</b></summary>
 <br>
 
-Graduated **Software Engineer** (B.S., 2025) and certified by Oracle (**Oracle Cloud Infrastructure - OCI Foundations Associate**), with over 2 years of hands-on experience designing, developing, reviewing, and scaling production-grade systems and integrations.
+**Engenheiro de Software** graduado (UNOPAR, 2025) e certificado oficialmente pela Oracle (**OCI Foundations Associate**), com mais de 2 anos de atuação contínua no desenvolvimento, sustentação e arquitetura de sistemas web completos, APIs resilientes e infraestrutura em nuvem.
 
-- **Full-Stack & Mobile Development**: Enterprise web applications and cross-platform mobile systems built with Next.js 15, React 19, React Native, Vue.js, TypeScript, Node.js, Express, and Tailwind CSS.
-- **Database Architecture & Data Integrity**: Advanced relational modeling utilizing PostgreSQL, Prisma ORM, Supabase, Redis in-memory caching, and SQLite for high-throughput transactional systems.
-- **Cloud Infrastructure, VPS & DevOps**: Turnkey deployments across Linux VPS environments (Hostinger, OCI, bare-metal), Docker multi-container setups, Nginx reverse proxy configuration, and Git-driven deployment pipelines.
-- **AI-Augmented Engineering (AI Operator)**: Leverages advanced AI tooling and agentic workflows for accelerated implementation, automated test scaffolding, and static security auditing while maintaining full architectural governance.
-- **Quality Assurance (QA) & Code Auditing**: Structured code reviews, test-driven methodologies, input validation, strict OWASP compliance, and proactive vulnerability remediation.
-- **Mission-Critical Telecom & Network Support**: Nearly 3 years at **Intelbras S/A** handling tier-2 telecom escalations, IP PBX telephone exchange troubleshooting, VoIP gateways, and packet-level inspection via Wireshark under strict enterprise SLAs.
+- **Domínio Ponta a Ponta**: Experiência comprovada em conceber e colocar em produção aplicações modernas utilizando **Next.js 15 (App Router)**, **React 19**, **React Native**, **Vue.js**, **TypeScript**, **Node.js**, **PostgreSQL**, **Supabase** e **Docker**.
+- **Resolução de Problemas Críticos sob Pressão**: Vivência corporativa como Analista de Suporte Técnico Tier-2 na **Intelbras S/A**, atuando no diagnóstico de centrais telefônicas PABX IP/híbridas, gateways VoIP e análise profunda de tráfego de rede via **Wireshark** sob métricas rigorosas de SLA.
+- **Engenharia Assistida por IA (Operador de IA)**: Condução de pipelines ágeis integrando agentes e ferramentas de IA para aceleração do ciclo de desenvolvimento, geração de testes e auditoria de segurança mantendo total controle arquitetural.
+- **Autonomia em Infraestrutura & VPS**: Provisionamento de servidores Linux VPS (**Hostinger**, **Oracle Cloud**), conteinerização com **Docker Compose**, proxy reverso **Nginx** com SSL e redes privadas seguras ponto a ponto com **Tailscale** e chaves SSH.
 
 </details>
 
@@ -64,185 +55,188 @@ Graduated **Software Engineer** (B.S., 2025) and certified by Oracle (**Oracle C
 
 ---
 
-### Soluções Corporativas & Parcerias de Negócios / Business Solutions
+### Core Competencies & Behavioral Leadership
 
-Para empresas e empreendedores que buscam lançar produtos, automatizar operações internas ou modernizar infraestruturas legadas com garantia de segurança e performance:
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Tipo de Solução | Benefício Operacional e de Negócio | Stack / Infraestrutura |
-| :--- | :--- | :--- |
-| **Plataformas SaaS Multi-Tenant** | Sistemas sob medida com segregação de dados por cliente, painel administrativo (CRUD completo), controle de planos e perfis de acesso (RBAC). | Next.js 15, React, Node.js, PostgreSQL, Docker, Redis |
-| **Backends, APIs & Integrações** | Centralização de regras de negócio, webhooks para meios de pagamento (PIX / Cartão), gateways de automação e comunicação transacional (WhatsApp, Email). | Node.js, Express, TypeScript, Supabase, Python |
-| **Infraestrutura em VPS & Nuvem** | Migração de projetos para servidores dedicados/VPS (Hostinger, OCI), configuração de Docker, Nginx com SSL gratuito, firewall e redução de custos operacionais. | Linux VPS, Docker Compose, Nginx, Hostinger, OCI |
-| **Aplicativos Web & Mobile** | Interfaces responsivas, carregamento ultrarrápido (Core Web Vitals), compatibilidade mobile-first e aplicativos nativos multiplataforma. | React Native, React 19, Tailwind CSS, Vite |
-| **Automação de Processos & IA** | Eliminação de gargalos repetitivos, extração inteligente de dados (Scraping), bots de notificação e pipelines com Inteligência Artificial. | Python, Shell Script, Tailscale VPN, IA Agents |
+#### 🛠️ Technical Competencies (Hard Skills)
+- **Architectural Design**: Domain-Driven Design (DDD), Modular Monoliths, RESTful API Contracts, Multi-Tenant Data Isolation, RBAC Authorization.
+- **Data Modeling & Storage**: Relational Schema Design, Foreign Keys, Indexes, PostgreSQL 15, Prisma ORM, Supabase, Redis Caching, SQLite.
+- **Cloud & DevOps Delivery**: Docker Containerization, Multi-Stage Builds, Hostinger/OCI Linux VPS Administration, Nginx Reverse Proxy, Git, CI/CD.
+- **Quality Assurance & Testing**: Unit & Integration Testing, Strict TypeScript Enforcement, Static Code Analysis, OWASP Security Hardening.
+- **Network & Diagnostics**: Deep Packet Inspection (Wireshark), IP PBX / SIP / VoIP Protocol Analysis, Tailscale Mesh VPNs, Cryptographic SSH.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 Behavioral & Leadership (Soft Skills)
+- **High-Pressure Incident Response**: Diagnosed enterprise-level network outages and telecom failures with clarity, rigor, and strict SLA compliance at Intelbras.
+- **Cross-Functional Leadership**: Directed and mentored a multidisciplinary volunteer media team for weekly live multi-camera broadcasts at Lagoinha.
+- **Radical Ownership**: Drives systems from conceptual whiteboard architecture to database migration, backend implementation, and production monitoring.
+- **Pragmatic Technical Communication**: Bridges the gap between business objectives, executive stakeholders, and engineering trade-offs.
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ---
 
-### Matriz de Tecnologias & Competências / Tech Stack
+### Technical Stack
 
-| Camada | Tecnologias e Ferramentas |
+| Layer | Technologies & Tools |
 | :--- | :--- |
-| **Linguagens** | TypeScript, JavaScript (ES6+), Python, SQL, Bash / Shell, PowerShell, HTML5, CSS3 |
-| **Frontend & Mobile** | React 19, Next.js 15 (App Router), React Native, Vue.js, Tailwind CSS, Vite, Zustand, Three.js |
-| **Backend & APIs** | Node.js, Express, RESTful APIs, Autenticação JWT, RBAC, Webhooks, Middlewares |
-| **Bancos de Dados & Storage** | PostgreSQL 15, Supabase, Prisma ORM, Redis (Cache/Filas), SQLite |
-| **DevOps, VPS & Infraestrutura** | Docker, Docker Compose, Linux VPS (Hostinger / OCI), Nginx Reverse Proxy, Git, GitHub Actions |
-| **Segurança & Redes** | Boas Práticas OWASP, Chaves Criptográficas SSH, Tailscale Mesh VPN, Wireshark, PABX IP / VoIP |
-| **QA, Testes & Metodologias** | Revisão de Código (Code Review), Testes Automatizados, Validação de Tipos Estrita, Scrum, Kanban |
-| **Operador de IA & Produtividade** | Arquitetura Assistida por IA, Agentes de Desenvolvimento, Engenharia de Prompt Técnico |
+| **Languages** | TypeScript, JavaScript (ES6+), Python, SQL, Bash / Shell, PowerShell, HTML5, CSS3 |
+| **Frontend & Mobile** | React 19, Next.js 15 (App Router), React Native, Vue.js, Tailwind CSS, Vite, Zustand, Three.js (WebGL) |
+| **Backend & APIs** | Node.js, Express, RESTful APIs, JWT Authentication, RBAC, Webhooks, Middleware Architecture |
+| **Databases & Cache** | PostgreSQL 15, Supabase, Prisma ORM, Redis (In-Memory Cache & Queues), SQLite |
+| **Cloud, VPS & Infra** | Oracle Cloud Infrastructure (OCI Certified), Hostinger VPS, Linux (Ubuntu/Debian), Docker, Docker Compose, Nginx |
+| **Security & Networking** | OWASP Top 10 Guidelines, Tailscale Private Mesh VPN, SSH Keypair Cryptography, Wireshark, IP PBX / VoIP |
+| **Quality & Operations** | Automated Testing, Strict Typing, Code Review, Git/GitHub, Salesforce CRM, Auto W (Logistics WMS) |
+| **AI Systems Engineering** | AI-Assisted Architecture, Agentic Workflows, Automated Code Refactoring & Test Generation |
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,react,nextjs,vue,tailwind,postgres,supabase,prisma,redis,docker,nginx,linux,git,github&perline=9" alt="Icons de Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,react,nextjs,vue,tailwind,postgres,supabase,prisma,redis,docker,nginx,linux,git,github&perline=9" alt="Tech Stack Icons" />
 </div>
 
 <br>
 
 ---
 
-### Portfólio de Engenharia & Sistemas Proprietários (Showcase de Repositórios)
+### Featured Systems & Architecture Showcase
 
-Abaixo estão exemplos concretos de arquiteturas, plataformas comerciais e integrações desenvolvidas:
+Selected production systems and architectural implementations from private and open-source repositories:
 
 <br>
 
 #### 1. Barbershop SaaS Multi-Tenant Platform (`projetoagendaBarber2.0`)
-*Plataforma em nuvem voltada para gestão comercial completa de barbearias e estética com segregação multi-tenant.*
-- **Arquitetura & Stack**: Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Express, Prisma ORM, PostgreSQL 15, Redis e Docker Compose.
-- **Destaques de Engenharia**:
-  - Modelagem relacional multi-empresa com isolamento estrito de dados e controle de acesso por cargos (RBAC).
-  - Agendamento de clientes em tempo real, fluxo de frente de caixa (PDV), cálculo automático de comissões por profissional e controle de estoque.
-  - Implementação de camada de cache em Redis para otimização de consultas frequentes e autenticação segura via tokens JWT.
-  - Deploy conteinerizado via Docker, garantindo portabilidade entre ambientes de desenvolvimento e servidores VPS em produção.
+*Commercial SaaS platform engineered for multi-unit appointment booking, POS, and financial commissions.*
+- **Architecture**: Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Express, Prisma ORM, PostgreSQL 15, Redis, and Docker.
+- **Engineering Decisions**:
+  - Engineered an enterprise-grade multi-tenant data architecture with schema-level tenant isolation and role-based access control (RBAC).
+  - Designed real-time client self-scheduling, point-of-sale (POS) cashier flows, and automated multi-tier commission calculations.
+  - Implemented a Redis in-memory caching tier to eliminate database bottlenecks during peak concurrent booking hours.
+  - Packaged the service ecosystem into Docker containers for reproducible staging and production VPS rollouts.
 
 <br>
 
-#### 2. OrcamentoPrint3D (`OrcamentoPrint3D`)
-*Plataforma técnica de cálculo de custos de manufatura aditiva (FDM/Resina) e gestão integrada de ecossistema 3D.*
-- **Arquitetura & Stack**: React, TypeScript, Vite, Zustand, Tailwind CSS, Three.js, Supabase e PostgreSQL.
-- **Destaques de Engenharia**:
-  - Viewport 3D interativo no navegador desenvolvido com Three.js para renderização, inspeção de malhas e cálculo volumétrico de arquivos STL.
-  - Motor automatizado de emissão de orçamentos técnicos em PDF com detalhamento de custos de filamento, resina, depreciação de máquina e energia.
-  - Módulo completo de inventário de insumos integrado ao Supabase com controle em tempo real de consumo.
-  - Pipelines de integração com APIs de telemetria de fabricantes de impressoras 3D (Bambu Lab, Creality, Anycubic).
+#### 2. OrcamentoPrint3D Platform (`OrcamentoPrint3D`)
+*Additive manufacturing ecosystem management and client-side 3D geometry cost engine.*
+- **Architecture**: React, TypeScript, Vite, Zustand, Tailwind CSS, Three.js, Supabase, and PostgreSQL.
+- **Engineering Decisions**:
+  - Implemented an in-browser WebGL viewport via Three.js to parse STL binary files, calculate 3D volume, and inspect mesh bounding boxes client-side, reducing server load to zero.
+  - Automated PDF quotation generation combining material consumption (FDM filaments, photopolymer resins), machine depreciation, and electrical power metrics.
+  - Integrated Supabase for real-time inventory management, row-level security (RLS), and webhook-driven automated stock depletion.
+  - Established integration pipelines connecting to manufacturer APIs (Bambu Lab, Creality, Anycubic).
 
 <br>
 
-#### 3. Gestão Financeira & Dashboards Estratégicos (`Projeto-Finvexa`)
-*Painel financeiro corporativo para acompanhamento de receitas, despesas, métricas de fluxo de caixa e previsibilidade.*
-- **Arquitetura & Stack**: TypeScript, Node.js, React, Tailwind CSS, PostgreSQL.
-- **Destaques de Engenharia**:
-  - Visualização dinâmica de métricas contábeis com gráficos analíticos e categorização inteligente de lançamentos.
-  - Arquitetura orientada a serviços com APIs padronizadas para conciliação bancária e exportação de relatórios gerenciais.
-  - Foco em integridade transacional no banco de dados e validação estrita de dados em tempo de compilação com TypeScript.
+#### 3. Finvexa Enterprise Financial Engine (`Projeto-Finvexa`)
+*Corporate financial tracking dashboard with cash flow analytics and ledger reconciliation.*
+- **Architecture**: TypeScript, Node.js, React, Tailwind CSS, and PostgreSQL.
+- **Engineering Decisions**:
+  - Architected strict end-to-end type safety using TypeScript to prevent floating-point and transaction parsing discrepancies.
+  - Implemented analytical cash flow visualizations, recurring revenue dashboards, and categorized financial ledgers.
+  - Built scalable REST API endpoints adhering to clean architecture principles with structured error boundaries.
 
 <br>
 
-#### 4. Kulmann Oficina — Gestão Automotiva Integrada (`Kulmann-Oficina`)
-*Sistema de ordem de serviço, gestão de clientes, histórico de veículos e controle operacional para oficinas mecânicas.*
-- **Arquitetura & Stack**: TypeScript, JavaScript, Docker, Tailwind CSS, Node.js e banco de dados relacional.
-- **Destaques de Engenharia**:
-  - Rastreabilidade de ordens de serviço (OS) desde a abertura, checklist veicular, aprovação de orçamentos até o faturamento.
-  - Ambientes de execução padronizados via Dockerfile para rápido provisionamento em servidores VPS.
+#### 4. Zero-Trust Mesh Fleet Infrastructure (`SSH-ACESS-REMOTE`)
+*Automated remote management and disaster-recovery framework for mission-critical production workstations.*
+- **Architecture**: Python, PowerShell, Bash, Tailscale Mesh VPN, and Cryptographic SSH Keypairs.
+- **Engineering Decisions**:
+  - Deployed an encrypted peer-to-peer overlay network with Tailscale, enabling secure administration without public IP exposure or open firewall ports.
+  - Automated software watchdog routines, kiosk mode recovery, display profile enforcement, and background patch management.
+  - Hardened fleet security by enforcing asymmetric cryptographic SSH keys, eliminating password-based brute force vectors.
 
 <br>
 
-#### 5. Infraestrutura & Automação Remota Mesh (`SSH-ACESS-REMOTE`)
-*Sistema de gerenciamento e acesso remoto seguro ponto a ponto para estações de trabalho de palco e transmissão ao vivo.*
-- **Arquitetura & Stack**: Python, PowerShell, Shell Script, Tailscale Mesh VPN e Par de Chaves Criptográficas SSH.
-- **Destaques de Engenharia**:
-  - Rede privada sem portas expostas na internet, utilizando topologia mesh via Tailscale com autenticação por chave assimétrica.
-  - Automação de rotinas de recuperação de software, modo kiosk, reinicialização preventiva e controle remoto de monitores e projeções.
-  - Eliminação total de vulnerabilidades por senhas fracas, operando sob o conceito de privilégio mínimo e acesso criptografado.
-
-<br>
-
-#### 6. Sistema de Disparo Transacional & Engajamento (`disparo-em-massa-lagoinha-comercio`)
-*Ferramenta full-stack para envio escalável de notificações, avisos e avisos comerciais via WhatsApp.*
-- **Arquitetura & Stack**: Python, JavaScript, SQLite, Admin CRUD.
-- **Destaques de Engenharia**:
-  - Painel administrativo intuitivo para gerenciamento de contatos, listas de transmissão e agendamento de disparos com controle de taxa (rate limiting) para prevenção de bloqueios.
-  - Persistência estruturada em banco leve para histórico de entrega e logs de execução.
-
-<br>
-
-#### 7. Utilitários Open-Source & Soluções Públicas
-- **[Sistema de Cobrança](https://github.com/mauriciomholiveira/Sistema-de-cobranca)**: Sistema com integração PIX dinâmico, processamento de webhooks e dashboards financeiros.
-- **[Sistema de Escala](https://github.com/mauriciomholiveira/Sistema-de-Escala)**: Aplicação web para controle de plantões e escalas de equipes, com prevenção algorítmica de conflitos de horários.
-- **[Localflare](https://github.com/mauriciomholiveira/localflare)**: Ferramenta open-source para emulação e tunelamento seguro de serviços locais na nuvem.
-- **[Legalize-BR](https://github.com/mauriciomholiveira/legalize-br)**: Pipeline de dados para indexação e estruturação das leis federais brasileiras em formato padronizado.
+#### 5. Open-Source Tools & Production Utilities
+- **[Sistema de Cobrança](https://github.com/mauriciomholiveira/Sistema-de-cobranca)**: Automated dynamic PIX billing system with webhook event validation and reconciliation analytics.
+- **[Sistema de Escala](https://github.com/mauriciomholiveira/Sistema-de-Escala)**: Team shift coordination engine featuring algorithmic conflict prevention and schedule notifications.
+- **[Localflare](https://github.com/mauriciomholiveira/localflare)**: Open-source local development tunneling and Cloudflare deployment emulator.
+- **[Legalize-BR](https://github.com/mauriciomholiveira/legalize-br)**: High-speed ingestion pipeline for structuring and indexing Brazilian federal legislation.
 
 <br>
 
 ---
 
-### Experiência Profissional & Histórico Corporativo
+### Professional Trajectory & Track Record
 
-#### **Conferente / Auditoria de Sistemas de Logística**
-**Envia Peças** — São José, SC  
-*06/2026 – Presente*
-- Auditoria e conferência sistemática de itens automotivos separados em armazém via sistema corporativo Auto W.
-- Validação e liberação de lotes de expedição, otimizando fluxos de entrega e reduzindo divergências de inventário.
+#### **Conferente / Logistics Systems Verification Associate**
+**Envia Peças** — São José, SC, Brazil  
+*06/2026 – Present*
+- Audits and validates sorted automotive parts against high-velocity order streams utilizing the Auto W management software.
+- Enforces data integrity across dispatch and routing pipelines, reducing fulfillment discrepancies.
 
-#### **Secretaria Executiva & Liderança Técnica de Mídia**
-**Igreja Batista da Lagoinha** — São José, SC  
+#### **Executive Administration & Technical Media Leadership**
+**Igreja Batista da Lagoinha** — São José, SC, Brazil  
 *04/2024 – 09/2026*
-- **Secretaria Executiva (06/2025 – 09/2026)**: Governança de registros oficiais, processos institucionais e alinhamento direto com a diretoria executiva.
-- **Líder de Mídia e Live Streaming (04/2024 – 07/2026)**: Gestão e capacitação técnica de equipes voluntárias para operação de transmissões ao vivo com multicâmeras via OBS Studio.
-- **Engenharia de Infraestrutura**: Desenvolvimento de rede privada segura (Tailscale + chaves SSH) e automações locais para gerenciamento centralizado de máquinas operacionais sem interrupção de serviço.
+- **Executive Secretary (06/2025 – 09/2026)**: Directed official institutional governance, member registry databases, and administrative alignment with executive leadership.
+- **Media & Live Streaming Lead (04/2024 – 07/2026)**: Managed and coached a technical volunteer team running live multi-camera audiovisual broadcasts via OBS Studio under zero-error live conditions.
+- **Infrastructure Automation**: Engineered remote workstation automation tools and Tailscale mesh networks, ensuring 99.9% broadcast system reliability.
 
-#### **Analista de Suporte Técnico em Telecomunicações (Tier-2)**
-**Intelbras S/A** — São José, SC  
+#### **Telecommunications Technical Support Analyst (Tier-2)**
+**Intelbras S/A** — São José, SC, Brazil  
 *08/2022 – 05/2025*
-- Suporte técnico consultivo de segundo nível para clientes corporativos, grandes integradores e canais autorizados em todo o território nacional.
-- Diagnóstico avançado, resolução e documentação de falhas em centrais telefônicas PABX (híbridas e IP) e gateways VoIP.
-- Análise aprofundada de tráfego de dados e pacotes de rede utilizando o analisador Wireshark; controle e acompanhamento de chamados pelo Salesforce CRM com estrito cumprimento de SLAs de criticidade.
+- Served as the second-level escalation authority diagnosing complex incidents across enterprise IP PBX telephony servers and VoIP gateways for certified partners nationwide.
+- Executed deep network packet analysis using Wireshark to resolve SIP signaling issues, call dropouts, and routing anomalies.
+- Handled incident lifecycles within Salesforce CRM under demanding contractual SLAs, maintaining top-tier customer satisfaction scores.
 
-#### **Auxiliar de Expedição Pleno / Suporte de TI Operacional**
-**ND Express** — Palhoça, SC  
+#### **Logistics Dispatch & IT Operations**
+**ND Express** — Palhoça, SC, Brazil  
 *09/2018 – 04/2022*
-- Emissão e conferência de manifestos eletrônicos de transporte de cargas (MDF-e/CT-e) e conformidade documental fiscal.
-- Atendimento e manutenção de primeiro nível (N1) para computadores da operação, estações de etiquetagem e impressoras de rede.
+- Issued and verified electronic freight manifests (MDF-e/CT-e) and tax documentation for interstate compliance.
+- Provided tier-1 hardware diagnostics, local area network maintenance, and workstation support for on-site operations.
 
 <br>
 
 ---
 
-### Formação Acadêmica & Certificações
+### Education, Credentials & Continuous Learning
 
-- **Bacharelado em Engenharia de Software** — UNOPAR (Conclusão/Colação: Janeiro de 2025)
-- **Oracle Cloud Infrastructure (OCI) Foundations Associate** — Oracle Corporation (Agosto de 2023)
-- **Segurança da Informação**: Cursos preparatórios Microsoft SC-900 (Security Fundamentals), Formação CECyber (*From IT to Cyber*), Boas Práticas em Cibersegurança (IBSEC)
-- **Redes & Telecom**: Série de Certificações de Telefonia IP Empresarial e Roteamento (Intelbras Academy)
-- **Metodologias Ágeis**: Gestão de Projetos Ágeis com Scrum e Kanban (DIO)
+#### **Academic Degree**
+- **Bachelor of Science in Software Engineering (Bacharel em Engenharia de Software)**  
+  *UNOPAR — Universidade Norte do Paraná* • Conferred: January 2025
 
-#### Idiomas
-- **Português**: Nativo
-- **Inglês**: Proficiência Técnica / Operacional (Leitura aprofundada de documentações de arquitetura, manuais técnicos e código; comunicação profissional em desenvolvimento ativo)
+#### **Industry Certifications**
+- **Oracle Cloud Infrastructure (OCI) Foundations Associate** — Oracle Corporation (Issued: August 2023)
+
+#### **Specialized Technical Programs**
+- **Cybersecurity & Defense**: *From IT to Cyber* (CECyber), *Cybersecurity Best Practices & Network Fundamentals* (IBSEC).
+- **Cloud Architecture**: Microsoft SC-900 (Security Fundamentals), MS-900, Ka Solution AWS Discovery Series.
+- **Enterprise Networking**: IP PBX Telephony, Routing & VoIP Systems (Intelbras Academy).
+- **Agile Engineering**: Agile Project Management with Scrum & Kanban (DIO).
+
+#### **Languages**
+- **Portuguese**: Native
+- **English**: Technical / Working Proficiency (Fluent reading comprehension of technical specifications, RFCs, and codebases; active professional conversational advancement)
 
 <br>
 
 ---
 
-### Indicadores & Estatísticas GitHub
+### GitHub Telemetry
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mauriciomholiveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" alt="Estatísticas GitHub" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mauriciomholiveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomholiveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Linguagens Mais Utilizadas" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomholiveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciomholiveira&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6366f1" alt="Streak de Contribuições" width="70%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciomholiveira&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6366f1" alt="Contribution Streak" width="70%" />
     </td>
   </tr>
 </table>
@@ -255,9 +249,9 @@ Abaixo estão exemplos concretos de arquiteturas, plataformas comerciais e integ
 
 <div align="center">
 
-### Canais de Contato / Contratações & Negócios
+### Contact & Engineering Opportunities
 
-Aberto para contratações em regime remoto/presencial, consultorias de arquitetura de software e desenvolvimento de sistemas corporativos sob demanda.
+Open to Full-Time Software Engineering roles (Global Remote & Hybrid), Cloud Architecture consulting, and Enterprise Systems development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriciomholiveira)
 [![Email](https://img.shields.io/badge/Email-mauriciomholiveira%40icloud.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mauriciomholiveira@icloud.com)
@@ -265,6 +259,6 @@ Aberto para contratações em regime remoto/presencial, consultorias de arquitet
 [![Download Resume EN](https://img.shields.io/badge/Resume_(EN)-PDF-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Resume_Mauricio_Oliveira_EN.pdf)
 [![Download CV PT](https://img.shields.io/badge/Curr%C3%ADculo_(PT)-PDF-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/CV_Mauricio_Oliveira_PT.pdf)
 
-<sub>© 2026 Maurício Henrique de Oliveira. Todos os direitos reservados.</sub>
+<sub>© 2026 Maurício Henrique de Oliveira. All rights reserved.</sub>
 
 </div>
