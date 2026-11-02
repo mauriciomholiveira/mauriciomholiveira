@@ -114,7 +114,17 @@ Selected production systems and architectural implementations from private and o
 
 <br>
 
-#### 1. Barbershop SaaS Multi-Tenant Platform (`projetoagendaBarber2.0`)
+#### 1. AutoMais Ecosystem — Mobile & Distributed Full-Stack Platform (`AutoMais_App`)
+*End-to-end mobile, web, and background worker ecosystem engineered for automotive operations and financial calculation.*
+- **Architecture**: React Native (Expo / Mobile), React, TypeScript, Node.js, PostgreSQL, Background Workers, Docker Compose, and Automated Unit Test Suites.
+- **Engineering Decisions**:
+  - Architected a unified multi-tier repository separating native mobile client (`mobile/`), web frontend (`frontend/`), REST API (`backend/`), and asynchronous idempotency workers (`worker/`).
+  - Enforced strict domain validation, authentication security boundaries, and PostgreSQL schema constraints backed by dedicated unit and integration test suites (`teste-unit/`).
+  - Containerized backend and database services via Docker Compose for deterministic parity across local development and cloud VPS environments.
+
+<br>
+
+#### 2. Barbershop SaaS Multi-Tenant Platform (`projetoagendaBarber2.0`)
 *Commercial SaaS platform engineered for multi-unit appointment booking, POS, and financial commissions.*
 - **Architecture**: Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Express, Prisma ORM, PostgreSQL 15, Redis, and Docker.
 - **Engineering Decisions**:
@@ -125,7 +135,7 @@ Selected production systems and architectural implementations from private and o
 
 <br>
 
-#### 2. OrcamentoPrint3D Platform (`OrcamentoPrint3D`)
+#### 3. OrcamentoPrint3D Platform (`OrcamentoPrint3D`)
 *Additive manufacturing ecosystem management and client-side 3D geometry cost engine.*
 - **Architecture**: React, TypeScript, Vite, Zustand, Tailwind CSS, Three.js, Supabase, and PostgreSQL.
 - **Engineering Decisions**:
@@ -136,17 +146,17 @@ Selected production systems and architectural implementations from private and o
 
 <br>
 
-#### 3. Finvexa Enterprise Financial Engine (`Projeto-Finvexa`)
-*Corporate financial tracking dashboard with cash flow analytics and ledger reconciliation.*
-- **Architecture**: TypeScript, Node.js, React, Tailwind CSS, and PostgreSQL.
+#### 4. Finvexa Enterprise Financial Engine (`Projeto-Finvexa`)
+*Corporate financial tracking monorepo with cash flow analytics and ledger reconciliation.*
+- **Architecture**: Turborepo, pnpm Workspaces, TypeScript, Node.js, React, Tailwind CSS, PostgreSQL, and Docker.
 - **Engineering Decisions**:
-  - Architected strict end-to-end type safety using TypeScript to prevent floating-point and transaction parsing discrepancies.
+  - Architected strict end-to-end type safety across monorepo packages using TypeScript to prevent floating-point and transaction parsing discrepancies.
   - Implemented analytical cash flow visualizations, recurring revenue dashboards, and categorized financial ledgers.
   - Built scalable REST API endpoints adhering to clean architecture principles with structured error boundaries.
 
 <br>
 
-#### 4. Zero-Trust Mesh Fleet Infrastructure (`SSH-ACESS-REMOTE`)
+#### 5. Zero-Trust Mesh Fleet Infrastructure (`SSH-ACESS-REMOTE`)
 *Automated remote management and disaster-recovery framework for mission-critical production workstations.*
 - **Architecture**: Python, PowerShell, Bash, Tailscale Mesh VPN, and Cryptographic SSH Keypairs.
 - **Engineering Decisions**:
@@ -156,11 +166,12 @@ Selected production systems and architectural implementations from private and o
 
 <br>
 
-#### 5. Open-Source Tools & Production Utilities
-- **[Sistema de Cobrança](https://github.com/mauriciomholiveira/Sistema-de-cobranca)**: Automated dynamic PIX billing system with webhook event validation and reconciliation analytics.
-- **[Sistema de Escala](https://github.com/mauriciomholiveira/Sistema-de-Escala)**: Team shift coordination engine featuring algorithmic conflict prevention and schedule notifications.
-- **[Localflare](https://github.com/mauriciomholiveira/localflare)**: Open-source local development tunneling and Cloudflare deployment emulator.
-- **[Legalize-BR](https://github.com/mauriciomholiveira/legalize-br)**: High-speed ingestion pipeline for structuring and indexing Brazilian federal legislation.
+#### 6. Open-Source Tools & Public Repositories
+- **[reverse-skill](https://github.com/mauriciomholiveira/reverse-skill)**: Deterministic cybersecurity skills router (44 routing rules, 45 modules), Burp Suite MCP server integration, and CTF sandbox orchestrator.
+- **[LyricFlow](https://github.com/mauriciomholiveira/lyricflow)**: Automated lyric scraping, stanza extraction, and SQLite catalog server engineered for low-latency live stage projection.
+- **[Calculadora de Jornada & Ganhos](https://github.com/mauriciomholiveira/calculadora-jornada-ganhos)**: Mobile-first web application for real-time shift tracking, interval deduction, overtime calculation, and earnings projection.
+- **[Gerência Banco Java (OOP)](https://github.com/mauriciomholiveira/gerencia-banco-java)**: Object-oriented banking operations architecture implemented in Java.
+- **[Project NOMAD](https://github.com/mauriciomholiveira/project-nomad)** & **[Legalize-BR](https://github.com/mauriciomholiveira/legalize-br)**: Offline-first knowledge server infrastructure and structured Brazilian federal legislation indexing pipeline.
 
 <br>
 
